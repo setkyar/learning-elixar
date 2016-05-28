@@ -6,7 +6,5 @@ defmodule Calculator do
 	end
 	defmodule Subtraction do
 		def sub(a, b) do 
-			a - b
-		end
 	end
 end
